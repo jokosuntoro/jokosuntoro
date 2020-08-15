@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joko Suntoro</h1>
-<h3 align="center">Co-Founder CodePro, Lecturer in Semarang University , Researcher in Romi Satria Wahono Institute, Intelligent Systems Research Group</h3>
+<h3 align="center">Lecturer in Semarang University , Researcher in Romi Satria Wahono Institute, and Member of Intelligent Systems Research Group</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokosuntoro" alt="jokosuntoro" /> </p>
 
